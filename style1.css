@@ -1,0 +1,8 @@
+.hero {
+    height : 100%;
+    width : 100%;
+    background-image: linear-gradient(rgba(209, 54, 54, 0.4),rgba(98, 71, 218, 0.4)),url("C:\Users\sumaja.gurlinka\react\images\banner.jpg");
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+}
